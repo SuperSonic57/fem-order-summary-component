@@ -77,6 +77,12 @@ img, picture, svg {
   font-size: 1.3rem;
   font-weight: 900;
   color: hsl(223, 47%, 23%);
+  text-align: center;
+}
+#component .component-text .description {
+  text-align: center;
+  line-height: 1.5;
+  padding: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */
