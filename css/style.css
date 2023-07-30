@@ -65,6 +65,7 @@ img, picture, svg {
 
 #component {
   background: white;
+  color: hsl(224, 23%, 55%);
   border-radius: 20px;
   overflow: hidden;
   width: 335px;
