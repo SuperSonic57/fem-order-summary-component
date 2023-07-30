@@ -87,9 +87,15 @@ img, picture, svg {
 #component .component-text .plan {
   background: hsl(225, 100%, 98%);
   border-radius: 10px;
-  padding: 15px;
+  padding: 20px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+}
+#component .component-text .plan .icon-and-info {
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
