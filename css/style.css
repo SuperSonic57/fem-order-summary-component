@@ -74,7 +74,7 @@ img, picture, svg {
   padding: 35px 25px;
 }
 #component .component-text h1 {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: 900;
   color: hsl(223, 47%, 23%);
   text-align: center;
@@ -82,7 +82,7 @@ img, picture, svg {
 #component .component-text .description {
   text-align: center;
   line-height: 1.5;
-  padding: 5px;
+  padding: 20px 5px;
 }
 
 /*# sourceMappingURL=style.css.map */
