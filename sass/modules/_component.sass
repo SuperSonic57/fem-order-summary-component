@@ -39,6 +39,9 @@
 				color: $clr-bright-blue
 				font-weight: $fw-bold
 				text-decoration: underline
+				&:hover
+					color: lighten($clr-bright-blue, 15%)
+					text-decoration: none
 		button
 			width: 100%
 			border: none
@@ -50,8 +53,13 @@
 			border-radius: 10px
 			margin: 20px 0 30px
 			box-shadow: 0px 20px 10px $clr-pale-blue
+			&:hover
+				background: lighten($clr-bright-blue, 15%)
+				cursor: pointer
 		a
 			display: block
 			text-align: center
 			font-weight: $fw-black
 			font-size: 0.9rem
+			&:hover
+				color: $clr-dark-blue
