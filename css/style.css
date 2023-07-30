@@ -1,5 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap";
 body {
+  background: hsl(225, 100%, 94%);
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
 }
