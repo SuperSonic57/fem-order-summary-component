@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/SuperSonic57/FEM_OrderSummaryComponent)
+- [Live Site](https://supersonic57.github.io/FEM_OrderSummaryComponent/)
 
 ## My process
 
