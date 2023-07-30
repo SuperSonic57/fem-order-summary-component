@@ -97,5 +97,12 @@ img, picture, svg {
   align-items: center;
   gap: 20px;
 }
+#component .component-text .plan .icon-and-info .plan-info {
+  line-height: 1.4;
+}
+#component .component-text .plan .icon-and-info .plan-info h2 {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
 
 /*# sourceMappingURL=style.css.map */
