@@ -74,8 +74,18 @@ img, picture, svg {
   width: 335px;
   box-shadow: 0px 20px 50px hsl(224, 23%, 55%);
 }
+@media screen and (min-width: 1300px) {
+  #component {
+    width: 400px;
+  }
+}
 #component .component-text {
   padding: 35px 25px;
+}
+@media screen and (min-width: 1300px) {
+  #component .component-text {
+    padding: 35px 40px;
+  }
 }
 #component .component-text h1 {
   font-size: 1.4rem;
