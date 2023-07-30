@@ -72,5 +72,10 @@ img, picture, svg {
 #component .component-text {
   padding: 35px 25px;
 }
+#component .component-text h1 {
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+}
 
 /*# sourceMappingURL=style.css.map */
