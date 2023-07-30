@@ -104,5 +104,10 @@ img, picture, svg {
   color: hsl(223, 47%, 23%);
   font-weight: 900;
 }
+#component .component-text .plan a {
+  color: hsl(245, 75%, 52%);
+  font-weight: 700;
+  text-decoration: underline;
+}
 
 /*# sourceMappingURL=style.css.map */
