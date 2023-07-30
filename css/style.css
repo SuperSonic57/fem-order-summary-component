@@ -54,4 +54,11 @@ img, picture, svg {
   display: block;
 }
 
+#component {
+  background: white;
+  border-radius: 20px;
+  overflow: hidden;
+  width: 335px;
+}
+
 /*# sourceMappingURL=style.css.map */
