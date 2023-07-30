@@ -54,6 +54,15 @@ img, picture, svg {
   display: block;
 }
 
+.component-grid {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+
 #component {
   background: white;
   border-radius: 20px;
