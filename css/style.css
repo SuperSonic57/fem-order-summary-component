@@ -91,6 +91,7 @@ img, picture, svg {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 0.9rem;
 }
 #component .component-text .plan .icon-and-info {
   display: flex;
